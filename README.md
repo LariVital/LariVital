@@ -9,7 +9,7 @@
 
 - BootCamp Descubra a nuvem ministrado em parceria com a [Digital Innovation One](https://www.dio.me/).
 
-- Bootcamp Potência Tech iFood (em andamento)- Programação do zero. Ministrado pela [Digital Innovation One](https://www.dio.me/).
+- Bootcamp Potência Tech iFood - Programação do zero. Ministrado pela [Digital Innovation One](https://www.dio.me/).
 
 - Formação JavaScript Developed (em andamento). Oferrecido pela [Digital Innovation One](https://www.dio.me/).
 
