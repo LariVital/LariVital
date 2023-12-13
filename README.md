@@ -11,7 +11,7 @@
 
 - Bootcamp Potência Tech iFood - Programação do zero. Ministrado pela [Digital Innovation One](https://www.dio.me/).
 
-- Formação JavaScript Developed (em andamento). Oferrecido pela [Digital Innovation One](https://www.dio.me/).
+- Formação JavaScript Developed. Oferrecido pela [Digital Innovation One](https://www.dio.me/).
 
 - Introdução ao HTML e Css, ministrado pela [DNC](https://www.escoladnc.com.br/).
 
